@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611471253611",
+    "firebase_url": "https://valentines-app-2819c.firebaseio.com",
+    "project_id": "valentines-app-2819c",
+    "storage_bucket": "valentines-app-2819c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611471253611:android:fce2e16501875f2736d12e",
+        "android_client_info": {
+          "package_name": "com.example.valentine_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611471253611-15807odcq9k0uf7vhu1rpmsk7jqgdc28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNjjaN8vWK8u4hiCvKLd2gCbyBBpxZao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611471253611-15807odcq9k0uf7vhu1rpmsk7jqgdc28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
